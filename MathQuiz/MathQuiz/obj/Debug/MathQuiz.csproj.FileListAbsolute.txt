@@ -8,3 +8,13 @@ C:\Users\Asus\Documents\Visual Studio 2017\Projects\MathQuiz\MathQuiz\obj\Debug\
 C:\Users\Asus\Documents\Visual Studio 2017\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
 C:\Users\Asus\Documents\Visual Studio 2017\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
 C:\Users\Asus\Documents\Visual Studio 2017\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Asus\Desktop\3.2\C# & ASP.NET Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
