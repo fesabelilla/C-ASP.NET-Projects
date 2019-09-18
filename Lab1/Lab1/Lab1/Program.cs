@@ -4,14 +4,14 @@
     {
         static void Main(string[] args)
         {
-            //var print = new Print();
+           // var print = new Print();
             //print.DoPrint();
 
             //var numbers = new Numbers();
             //numbers.PlayWithNumbers();
 
-            //var ifelse = new ifelse();
-            //ifelse.exploreifelse();
+            //var ifelse = new IfElse();
+            //ifelse.ExploreIfElse();
 
             //var loops = new Loops();
             //loops.ExploreLoops();
@@ -31,8 +31,8 @@
             //var overRidingImplementation = new OverRidingImplementation();
             //overRidingImplementation.ImplementOverRiding();
 
-            //var generic = new Generic();
-            //generic.ExploreGeneric();
+            var generic = new Generic();
+            generic.ExploreGeneric();
         }
     }
 }

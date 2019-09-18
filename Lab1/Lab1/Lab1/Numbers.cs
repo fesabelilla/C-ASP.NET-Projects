@@ -10,7 +10,7 @@ namespace Lab1
             int min = Int32.MinValue;
 
             Console.WriteLine($"Min value: {min} and Max value {max}");
-            Console.WriteLine($"Min value: {min - 1} and Max value {max + 1}");
+            Console.WriteLine($"Max value: {min - 1} and Min value {max + 1}");
 
             // Type Casting
 

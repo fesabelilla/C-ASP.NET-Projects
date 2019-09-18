@@ -1,0 +1,14 @@
+Shaon,Math,1,3.4
+Gazi,Math,2,3.8
+Niloy,Math,3,3.7
+Nibir,Math,4,3.4
+Nirjhor,Math,5,4.0
+Shaon,C,1,3.9
+Gazi,C,2,3.6
+Niloy,C,3,3.4
+Nibir,C,4,3.6
+Nirjhor,C,5,3.8
+Shaon,Python,1,3.8
+Gazi,Python,2,3.8
+Niloy,Python,3,3.8
+Nibir,Python,4,3.8
