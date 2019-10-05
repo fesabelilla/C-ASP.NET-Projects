@@ -16,7 +16,7 @@ namespace Authentication.Controllers
 
             new Student(){Name = "Mr. A" , Roll = "1" , Section = "A" },
             new Student(){Name = "Mr. B" , Roll = "2" , Section = "B" },
-            new Student(){Name = "Mr,. C" , Roll = "3" , Section = "C" },
+            new Student(){Name = "Mr. C" , Roll = "3" , Section = "C" },
 
             };
 
@@ -32,7 +32,7 @@ namespace Authentication.Controllers
         {
             FormsAuthentication.SignOut();
 
-                return RedirectToAction("Index");
+            return RedirectToAction("Index");
         }
 
     }

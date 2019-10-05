@@ -19,7 +19,7 @@ namespace Authentication.Controllers
         }
 
         [HttpPost]
-        public ActionResult Index(User user, string ReturnUrl)
+        public ActionResult Index(User user,String ReturnUrl)
         {
             if (IsValid(user))
             {
